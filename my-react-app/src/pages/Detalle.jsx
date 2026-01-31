@@ -1,5 +1,5 @@
 const Detalle = () => {
-    return (<div>Pagina de Detalle</div>
+    return (<div>Hola</div>
 
     )
 }
